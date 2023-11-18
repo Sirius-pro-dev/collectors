@@ -1,3 +1,12 @@
 [submodule "daniel-collectors"]
 	path = daniel-collectors
 	url = git@github.com:DanielUsov/daniel-collectors.git
+[submodule "Denis-collector"]
+	path = Denis-collector
+	url = git@github.com:Limonadek/Denis-collector.git
+[submodule "danilov-webpack-example"]
+	path = danilov-webpack-example
+	url = git@github.com:danilovg/danilov-webpack-example.git
+[submodule "application_bilders"]
+	path = application_bilders
+	url = git@github.com:Naziser/application_bilders.git
