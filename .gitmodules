@@ -1,6 +1,3 @@
-[submodule "daniel-collectors"]
-	path = daniel-collectors
-	url = git@github.com:DanielUsov/daniel-collectors.git
 [submodule "Denis-collector"]
 	path = Denis-collector
 	url = git@github.com:Limonadek/Denis-collector.git
