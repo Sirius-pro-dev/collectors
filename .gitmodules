@@ -10,3 +10,6 @@
 [submodule "application_bilders"]
 	path = application_bilders
 	url = git@github.com:Naziser/application_bilders.git
+[submodule "angelina-bundlers"]
+	path = angelina-bundlers
+	url = git@github.com:dancinginthedarkk/angelina-bundlers.git
