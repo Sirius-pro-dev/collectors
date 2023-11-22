@@ -10,3 +10,7 @@
 [submodule "angelina-bundlers"]
 	path = angelina-bundlers
 	url = git@github.com:dancinginthedarkk/angelina-bundlers.git
+[submodule "daniel"]
+	path = daniel
+	url = git@github.com:DanielUsov/daniel-collectors.git
+	branch = main
