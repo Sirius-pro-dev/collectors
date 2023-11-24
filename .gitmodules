@@ -14,3 +14,7 @@
 	path = daniel
 	url = git@github.com:DanielUsov/daniel-collectors.git
 	branch = main
+[submodule "nikita"]
+	path = nikita
+	url = git@github.com:Kuzy53/Nikita-collectore.git
+	branch = main
