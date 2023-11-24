@@ -18,3 +18,7 @@
 	path = nikita
 	url = git@github.com:Kuzy53/Nikita-collectore.git
 	branch = main
+[submodule "artur"]
+	path = artur
+	url = git@github.com:Amantaev-Artur/Amantaev-bundlers.git
+	branch = master
