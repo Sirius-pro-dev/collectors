@@ -26,3 +26,7 @@
 	path = angelina
 	url = git@github.com:dancinginthedarkk/angelina-bundlers.git
 	branch = main
+[submodule "oleg"]
+	path = oleg
+	url = git@github.com:Olegyesterdays/Collectors.git
+	branch = main
